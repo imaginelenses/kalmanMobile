@@ -6,7 +6,7 @@ Kalman Mobile along with [Kalman Desktop](https://github.com/imaginelenses/kalma
 Kalman Desktop then moves the cursor on the screen according to the change in acceleration of the mobile device.
 
 ## Usage
-1. Download and install kalman.apk
+1. Download and install [Kalman Mobile](https://github.com/imaginelenses/kalmanMobile/releases/latest/download/kalman.apk)
 2. Provide camera access manually (TODO handle permissions)
 3. Download and run [Kalman Desktop](https://github.com/imaginelenses/kalmanDesk)
 4. Scan the QR code shown fom Kalman Mobile
